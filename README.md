@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @r1ndert- 👀 I’m interested in ways to use AI
-- 🌱 I’m currently learning how to do AI stuff with Python
-- 💞️ I’m currently looking around helplessly.
-
+- 👋 Hi, I’m @r1ndert 💪🏼🦊 I’m a polyglot: I love languages.
+- I'm work with AI, ML, NLP, CV 👀
+- I’m using Python 3.12, Github, Streamlit, SQL, LangChain.
