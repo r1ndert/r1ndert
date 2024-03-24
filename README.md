@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @r1ndert 💪🏼🦊 I’m a polyglot: I love languages.
-- I'm working with AI, ML, NLP, CV 👀
-- I’m using Python 3.12, Github, Streamlit, SQL, LangChain.
+- 👋 Hi, I’m @r1ndert 💪🏼🦊
+- I’m a polyglot: I love languages. 
+- I am optimising workflows with generative AI, especially interested
+- in NLP, multimodal assistants, model customization,
+- AI for decision making, hybrid learning, and Oxford commas 👀
+- Tech stack: MacOS, Python, Streamlit, Obsidian, PostgreSQL,
+- Jupyter Notebook, Git, Ollama.
